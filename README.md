@@ -1,4 +1,6 @@
-### Hi there 👋
+# Daniel Kerstan
+
+Current student in the Master of Environmental Data Science program at the Bren School of Environmental Science and Management at UC Santa Barbara
 
 <!--
 **danielkerstan/danielkerstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
